@@ -1,0 +1,10 @@
+transformers
+datasets
+pandas
+numpy
+tqdm
+matplotlib
+nltk
+seaborn
+rouge-score
+peft
