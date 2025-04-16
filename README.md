@@ -1,5 +1,12 @@
 # Generative AI in Business Use Cases (21CSE378P) ✨
 
+[![Notebook Viewer](https://img.shields.io/badge/View-Jupyter_Notebooks-orange?logo=jupyter&style=flat-square)](https://github.com/shashank-pd/GEN-AI-Tutorial)
+![Built with](https://img.shields.io/badge/Built%20with-Python_3.10-3776AB?logo=python&logoColor=white&style=flat-square)
+![Archived](https://img.shields.io/badge/Status-Archived-blueviolet?style=flat-square)
+![](https://img.shields.io/badge/Academic_Use_Only-blue?style=flat-square)
+
+> **Note:** This repository has been archived and is no longer maintained. It is intended for **academic use only** and will not receive further updates or changes.
+
 Welcome to the **Generative AI in Business Use Cases (21CSE378P)** repository! This collection showcases assignment work demonstrating practical applications of generative AI in various business scenarios, implemented using Jupyter Notebooks.
 
 ---
